@@ -13,7 +13,7 @@ public class Average {
 		int n2 = in.nextInt();
 		
 	
-		System.out.println("Average of " + n1 + " and " + n2 + " is " + (n1+n2)/2 + ".");
+		System.out.println("Average of " + n1 + " and " + n2 + " is " + (n1+n2)/2.0 + ".");
 		
 	}
 
